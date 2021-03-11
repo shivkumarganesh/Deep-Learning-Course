@@ -32,7 +32,6 @@ Link to Tutorial : [Vision Model AutoML to Mobile](https://codelabs.developers.g
 
 Assignment Video : [Video Link](https://github.com/shivkumarganesh/Deep-Learning-Course/tree/main/Assignment-2/AutoML%20Vision%20Device)
 
-Assignment Video :
 ### B) Time Series Forecasting with the Cloud AI Platform and BQML
 Link to Tutorial : [Time Series Forecasting](https://codelabs.developers.google.com/codelabs/time-series-forecasting-with-cloud-ai-platform#0)
 
