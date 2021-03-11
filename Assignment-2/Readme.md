@@ -30,6 +30,8 @@ Assignment Video : [Video Link](https://github.com/shivkumarganesh/Deep-Learning
 ### A) Vision model using automl to mobile device
 Link to Tutorial : [Vision Model AutoML to Mobile](https://codelabs.developers.google.com/codelabs/automl-vision-edge-in-mlkit#0)
 
+Assignment Video : [Video Link](https://github.com/shivkumarganesh/Deep-Learning-Course/tree/main/Assignment-2/AutoML%20Vision%20Device)
+
 Assignment Video :
 ### B) Time Series Forecasting with the Cloud AI Platform and BQML
 Link to Tutorial : [Time Series Forecasting](https://codelabs.developers.google.com/codelabs/time-series-forecasting-with-cloud-ai-platform#0)
