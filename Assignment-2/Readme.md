@@ -6,7 +6,9 @@ This entire exercise is a part of Google AutoML tutorial where we work with vari
 ## Part 1
 ### Image Classification
 Link to Tutorial : [Hello Image Data](https://cloud.google.com/ai-platform-unified/docs/tutorials/image-recognition-automl)
-Assignment Video :
+
+Assignment Video :[Video Link](https://github.com/shivkumarganesh/Deep-Learning-Course/tree/main/Assignment-2/Image%20Classification)
+
 ###  Text Classification
 Link to Tutorial : [Hello Text Data](https://cloud.google.com/ai-platform-unified/docs/tutorials/text-classification-automl)
 
