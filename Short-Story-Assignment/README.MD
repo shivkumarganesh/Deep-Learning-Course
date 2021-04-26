@@ -1,7 +1,6 @@
 # Short Story Assignment
 
-### Survey Paper : [DeepFakes and Beyond: A Survey of
-Face Manipulation and Fake Detection](https://arxiv.org/pdf/2001.00179v3.pdf)
+### Survey Paper : [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/pdf/2001.00179v3.pdf)
 
 
 1. **Medium Article Link** - https://medium.com/analytics-vidhya/deepfakes-production-detection-using-various-deep-learning-methodologies-3221e6002dd2
